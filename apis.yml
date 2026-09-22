@@ -39,7 +39,7 @@ x-backed-by:
 - matrix-partners
 x-tier: stub
 x-tier-reason: acquired-no-api-surface
-x-status: acquired
+x-status: defunct
 x-acquired-by: CommScope
 x-acquired-year: '2015'
 specificationVersion: '0.23'
